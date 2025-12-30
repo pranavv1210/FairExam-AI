@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: fairexam-ai-backend
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: AZURE_OPENAI_ENDPOINT
+        sync: false
+      - key: AZURE_OPENAI_API_KEY
+        sync: false
+      - key: AZURE_OPENAI_DEPLOYMENT_NAME
+        value: gpt-4
+      - key: AZURE_OPENAI_API_VERSION
+        value: 2024-02-15-preview

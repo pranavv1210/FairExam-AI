@@ -1,0 +1,52 @@
+# Sample Exam Paper for Testing
+
+## Computer Networks - Mid-Term Examination
+
+**Time:** 3 Hours  
+**Total Marks:** 100
+
+---
+
+### Section A: Short Answer Questions
+
+1. Define the OSI model and list all seven layers.
+
+2. What is the difference between TCP and UDP protocols?
+
+3. Explain the concept of IP addressing and subnetting.
+
+4. Name three types of network topologies.
+
+5. What is the purpose of DNS in computer networks?
+
+---
+
+### Section B: Medium Questions
+
+6. Explain how the TCP three-way handshake works in establishing a connection.
+
+7. Describe the differences between circuit switching and packet switching networks.
+
+8. What are the main functions of the Data Link Layer? Explain with examples.
+
+9. Compare IPv4 and IPv6 addressing schemes.
+
+10. Explain the concept of network security and common security threats.
+
+---
+
+### Section C: Long Answer Questions
+
+11. Analyze the performance differences between different routing algorithms. Discuss distance vector and link state routing protocols in detail.
+
+12. Design a small office network with proper IP addressing scheme for 4 departments. Justify your design choices and explain security measures.
+
+13. Evaluate the impact of network congestion on application performance. Propose solutions to handle congestion control effectively.
+
+14. Analyze the OSI model layers and explain how data flows through each layer when sending an email. Include protocol examples at each layer.
+
+15. Compare and contrast different network security mechanisms including firewalls, VPNs, and encryption. Propose a comprehensive security strategy for a corporate network.
+
+---
+
+*End of Examination*

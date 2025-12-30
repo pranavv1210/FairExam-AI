@@ -1,0 +1,130 @@
+# Computer Networks - Course Syllabus
+
+## Course Code: CS301
+## Credits: 4
+## Prerequisites: Data Structures, Programming
+
+---
+
+## Course Objectives
+
+1. Understand fundamental networking concepts
+2. Learn network protocols and architectures
+3. Develop skills in network design and troubleshooting
+4. Understand network security principles
+
+---
+
+## Unit 1: Introduction to Computer Networks
+
+- Network fundamentals and definitions
+- Types of networks (LAN, WAN, MAN)
+- Network topologies (Bus, Star, Ring, Mesh)
+- Network devices (Hub, Switch, Router, Gateway)
+- OSI reference model
+- TCP/IP protocol suite
+
+---
+
+## Unit 2: Physical and Data Link Layer
+
+- Transmission media (Guided and Unguided)
+- Data encoding techniques
+- Error detection and correction
+- Flow control mechanisms
+- MAC protocols
+- Ethernet and IEEE 802.3
+- Wireless LANs and IEEE 802.11
+
+---
+
+## Unit 3: Network Layer
+
+- IP addressing (IPv4 and IPv6)
+- Subnetting and supernetting
+- Routing algorithms (Distance Vector, Link State)
+- Routing protocols (RIP, OSPF, BGP)
+- Internet Protocol (IP)
+- ICMP and IGMP
+- Address Resolution Protocol (ARP)
+
+---
+
+## Unit 4: Transport Layer
+
+- Transport layer services
+- Connection-oriented vs Connectionless
+- TCP protocol (Three-way handshake, Flow control)
+- UDP protocol
+- Port numbers and sockets
+- Congestion control mechanisms
+- Quality of Service (QoS)
+
+---
+
+## Unit 5: Application Layer
+
+- Domain Name System (DNS)
+- Email protocols (SMTP, POP3, IMAP)
+- File Transfer Protocol (FTP)
+- HTTP and HTTPS
+- World Wide Web concepts
+- Network management (SNMP)
+
+---
+
+## Unit 6: Network Security
+
+- Security threats and attacks
+- Cryptography basics (Symmetric, Asymmetric)
+- Authentication and digital signatures
+- Firewalls and packet filtering
+- Virtual Private Networks (VPN)
+- Secure protocols (SSL/TLS, SSH)
+- Wireless security (WPA, WPA2)
+
+---
+
+## Unit 7: Advanced Topics
+
+- Software-Defined Networking (SDN)
+- Network Function Virtualization (NFV)
+- Cloud networking
+- Internet of Things (IoT) networking
+- 5G networks
+- Network performance metrics
+
+---
+
+## Unit 8: Network Design and Management
+
+- Network planning and design principles
+- Network troubleshooting techniques
+- Performance monitoring tools
+- Network documentation
+- Capacity planning
+- Disaster recovery planning
+
+---
+
+## Course Outcomes
+
+Upon completion, students will be able to:
+
+1. Understand and explain network protocols and architectures
+2. Design and implement small to medium-sized networks
+3. Configure network devices and troubleshoot issues
+4. Implement security measures in networks
+5. Analyze network performance and optimize configurations
+
+---
+
+## Reference Books
+
+1. Computer Networks - Andrew S. Tanenbaum
+2. Data Communications and Networking - Behrouz A. Forouzan
+3. Computer Networking: A Top-Down Approach - James Kurose
+
+---
+
+*End of Syllabus*
