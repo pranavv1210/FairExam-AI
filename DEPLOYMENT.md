@@ -67,10 +67,10 @@ git push -u origin main
 
 7. **Wait for deployment** (3-5 minutes)
    - Render will build and deploy your backend
-   - You'll get a URL like: `https://fairexam-ai-backend.onrender.com`
+   - You'll get a URL like: `https://fairexam-ai.onrender.com`
 
 8. **Test the backend:**
-   - Visit: `https://your-backend-url.onrender.com/health`
+   - Visit: `https://fairexam-ai.onrender.com/health`
    - Should see: `{"status": "healthy", ...}`
 
 ### Step 3: Update CORS Settings (if needed)
@@ -83,7 +83,7 @@ After deployment, if you need to update allowed origins:
    allow_origins=[
        "http://localhost:3000",
        "http://localhost:5173",
-       "https://your-frontend-url.vercel.app"  # Add your Vercel URL
+       "https://fair-exam-ai.vercel.app"  # Add your Vercel URL
    ],
    ```
 3. Commit and push changes (Render auto-deploys)
@@ -103,7 +103,7 @@ After deployment, if you need to update allowed origins:
 
 2. **Edit `.env` with your Render backend URL:**
    ```
-   VITE_API_URL=https://fairexam-ai-backend.onrender.com
+   VITE_API_URL=https://fairexam-ai.onrender.com
    ```
 
 3. **Update `vercel.json` with your backend URL:**
@@ -140,7 +140,7 @@ After deployment, if you need to update allowed origins:
    - Add:
      ```
      Name: VITE_API_URL
-     Value: https://fairexam-ai-backend.onrender.com
+     Value: https://fairexam-ai.onrender.com
      ```
    - Click "Add"
 
