@@ -2,6 +2,7 @@ services:
   - type: web
     name: fairexam-ai-backend
     runtime: python
+    runtimeVersion: 3.11.9
     buildCommand: pip install -r requirements.txt
     startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
     envVars:
