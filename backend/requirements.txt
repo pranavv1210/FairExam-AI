@@ -4,4 +4,4 @@ python-dotenv==1.0.0
 openai==1.10.0
 PyPDF2==3.0.1
 python-multipart==0.0.6
-pydantic==2.5.3
+pydantic==1.10.12
